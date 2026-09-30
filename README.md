@@ -1,4 +1,4 @@
-## Hi there 👋
+## HIT-MAN Decompilation Project
 
 This is a work in progress decompilation of iconic 1990's PC game HIT-MAN, released by Pigeon Software.
 
