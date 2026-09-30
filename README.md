@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a work in progress decompilation of iconic 1990's PC game HIT-MAN, released by GooberSoft.
+This is a work in progress decompilation of iconic 1990's PC game HIT-MAN, released by Pigeon Software.
 
 THIS GITHUB REPO HAS NO CORRELATION TO THE HITMAN FRANCHISE BY IO INTERACTIVE.
 
